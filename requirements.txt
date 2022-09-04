@@ -7,3 +7,4 @@ warnings
 sklearn
 smote_variants
 streamlit
+smote
