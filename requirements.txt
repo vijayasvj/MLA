@@ -4,7 +4,7 @@ tensorflow
 pickle
 base64
 warnings
-scikit-learn
+scikit_learn
 smote-variants
 streamlit
 smote
