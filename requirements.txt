@@ -5,7 +5,7 @@ pickle
 base64
 warnings
 scikit-learn
-smote_variants
+smote-variants
 streamlit
 smote
 python3-sklearn
