@@ -1,5 +1,5 @@
 scikit-learn
-smote-variants
+smote-variants==0.6.11
 numpy
 pandas
 tensorflow
