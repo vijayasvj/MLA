@@ -8,3 +8,4 @@ scikit-learn
 smote_variants
 streamlit
 smote
+python3-sklearn
