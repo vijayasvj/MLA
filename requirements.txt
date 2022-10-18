@@ -7,3 +7,4 @@ pickle
 base64
 warnings
 streamlit
+sklearn
